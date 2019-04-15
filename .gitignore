@@ -1,0 +1,11 @@
+# ignore the following
+*.gz
+*.txt
+*.xls
+*.xlsx
+/conf/
+/result/
+/.idea/
+*.zip
+*.gz
+/file_saved
